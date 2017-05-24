@@ -1,3 +1,11 @@
+0.3.1-BETA (2017-05-23)
+-----
+- Greatly reduce refresh time
+- Fix blank album showing over list on first load
+- Update Media Scanner about old album when moving files
+- Update album cover after moving files, if needed
+- Other speed improvements
+
 0.3.0-BETA (2017-05-04)
 -----
 - Improvements to SD Card detection
