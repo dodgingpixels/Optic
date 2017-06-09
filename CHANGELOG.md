@@ -1,3 +1,14 @@
+0.4.0-BETA (2017-06-08)
+-----
+- Added ability to Search
+- Setup Translation page for contributions (added initial Spanish and Hindi strings)
+- Send multiple images to Optic to activate Swipe Lock from other apps
+- Added ability to delete files from full screen view
+- Adjusted swipe-back sensitivity
+- Speed improvements for thumbnails
+- Increased max zoom level (Deep-zoom)
+- Added fingerprint animation for unlocking
+
 0.3.1-BETA (2017-05-23)
 -----
 - Greatly reduce refresh time
