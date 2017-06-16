@@ -1,3 +1,12 @@
+0.4.1-BETA (2017-06-15)
+-----
+- Auto updating albums
+- Added German and Italian translations
+- Updated Spanish translations
+- Added album details menu item
+- Added date to media details dialog
+- Verify file operations before updating views
+
 0.4.0-BETA (2017-06-08)
 -----
 - Added ability to Search
