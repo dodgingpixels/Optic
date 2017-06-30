@@ -1,3 +1,12 @@
+0.4.2-BETA (2017-06-30)
+-----
+- Auto update all albums on app launch
+- Added ability to rotate images
+- Image orientation updates
+- File extension fixes
+- Translation updates
+- Added Czech, Dutch, Russian, Vietnamese and (some) Chinese
+
 0.4.1-BETA (2017-06-15)
 -----
 - Auto updating albums
