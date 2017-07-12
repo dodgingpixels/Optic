@@ -1,3 +1,9 @@
+0.4.3-BETA (2017-07-11)
+-----
+- Fix for moving files
+- Choose from existing albums when moving files
+- Fix for sharing images
+
 0.4.2-BETA (2017-06-30)
 -----
 - Auto update all albums on app launch
