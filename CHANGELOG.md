@@ -1,3 +1,18 @@
+0.5.0-BETA (2017-07-26)
+-----
+- Added a Vault (Secure album storage)
+- Added option for custom grid sizes
+- Added security for showing hidden albums while moving files
+- Added security for moving and deleting files
+- Added fast-scroll to album and thumbnail lists
+- Updated compilleSDK to 26
+- Minor adjustments to light & dark theme background colors and dark menu items
+- Reduced fullscreen cross-fade delay
+- Updated translation service to OneSky
+- Updated translations
+- Added Arabic, Catalan, Japanese, Korean, Portuguese (Brazil) and Traditional Chinese
+- Updated dependencies
+
 0.4.3-BETA (2017-07-11)
 -----
 - Fix for moving files
